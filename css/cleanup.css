@@ -1,1 +1,17 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display:none;
+}
+#wall .parent {
+  display:none;
+}
+html body div#wall #tag-3.slick {
+    z-index: 5;
+    display: none;
+    background: url(../images/tag-3.png) no-repeat;
+}
+html body div#wall div#tag-2 {
+    background: url(../images/tag-2.png) no-repeat;
+    z-index: 6;
+    display: none;
+}
