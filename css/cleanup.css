@@ -13,5 +13,5 @@ html body div#wall #tag-3.slick {
 html body div#wall div#tag-2 {
     background: url(../images/tag-2.png) no-repeat;
     z-index: 6;
-    display: block;
+    display: none;
 }
