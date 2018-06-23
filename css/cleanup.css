@@ -5,8 +5,8 @@
 #wall .parent {
   display:none;
 }
-div#wall #tag-3.slick {
+html body div#wall #tag-3.slick {
     z-index: 5;
-    display: block;
+    display: none;
     background: url(../images/tag-3.png) no-repeat;
 }
