@@ -10,3 +10,8 @@ html body div#wall #tag-3.slick {
     display: none;
     background: url(../images/tag-3.png) no-repeat;
 }
+#wall #tag-4 {
+    background: url(../images/tag-4.png) no-repeat;
+    z-index: 4;
+    display: none;
+}
